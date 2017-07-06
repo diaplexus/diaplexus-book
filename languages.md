@@ -10,14 +10,14 @@ Elm is a functional language inspired by and written in Haskell. It seems to aim
 
 Some notable features include:
 
-* Union types
-* Embedding as a DOM element
-* Enforced semantic versioning for package ecosystem
+* Union types.
+* Embedding as a DOM element.
+* Enforced semantic versioning for package ecosystem.
 * The Elm Architecture - [https://guide.elm-lang.org/architecture](https://guide.elm-lang.org/architecture%29\)
   * A model-update-view pattern for centralized model state where messages, which are often a union type, are mapped to a specific update of the model.
   * [https://dennisreimann.de/articles/elm-architecture-overview.html](https://dennisreimann.de/articles/elm-architecture-overview.html)
-* No runtime errors
-* Efficient virtual DOM
+* No runtime errors.
+* Efficient virtual DOM.
 
 #### Code Example
 
