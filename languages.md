@@ -2,6 +2,8 @@
 
 ## Elm - [http://elm-lang.org](http://elm-lang.org)
 
+**"A delightful language for reliable webapps. Generate JavaScript with great performance and no runtime exceptions."**
+
 Authored by Evan Czaplicki - [http://evan.czaplicki.us/](http://evan.czaplicki.us/%29\)
 
 Elm is a functional language inspired by and written in Haskell. It seems to aim to employ a minimal subset of Haskell's features striking a balance between high utility and ease of access. The language compiles to Javascript and utilizes a port system for typed interop with the Javascript ecosystem.
