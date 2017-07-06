@@ -2,7 +2,7 @@
 
 ## Elm - [http://elm-lang.org](http://elm-lang.org)
 
-**"A delightful language for reliable webapps. Generate JavaScript with great performance and no runtime exceptions."**
+_"A delightful language for reliable webapps. Generate JavaScript with great performance and no runtime exceptions."_
 
 Authored by Evan Czaplicki - [http://evan.czaplicki.us/](http://evan.czaplicki.us/%29\)
 
@@ -47,13 +47,31 @@ quicksort list =
 
 ## Nim - [https://nim-lang.org/](https://nim-lang.org/)
 
+_"Efficient and expressive programming. Nim is a systems and applications programming language. Statically typed and compiled, it provides unparalleled performance in an elegant package._
+
+_High-performance garbage-collected language_
+
+* _Compiles to C, C++ or JavaScript_
+* _Produces dependency-free binaries_
+* _Runs on Windows, macOS, Linux, and more"_
+
 ## Haskell - [https://www.haskell.org/](https://www.haskell.org/)
+
+_"An advanced, purely functional programming language."_
 
 ## Elixir - [https://elixir-lang.org/](https://elixir-lang.org/)
 
+_"Elixir is a dynamic, functional language designed for building scalable and maintainable applications._
+
+_Elixir leverages the Erlang VM, known for running low-latency, distributed and fault-tolerant systems, while also being successfully used in web development and the embedded software domain."_
+
 ## Eve - [http://witheve.com/](http://witheve.com/)
+
+_"Eve is a modern relational language for writing data-driven programs without the boilerplate."_
 
 ## Unison - [http://unisonweb.org/](http://unisonweb.org/)
 
+_"Next generation programming platform, currently in development."_
 
+_"Unison is a new programming platform that rethinks just about every aspect of the programming experience."_
 
