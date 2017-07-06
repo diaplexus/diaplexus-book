@@ -11,7 +11,7 @@ Some notable features include:
 * Union types
 * Embedding as a DOM element
 * Enforced semantic versioning for package ecosystem
-* \[The Elm Architecture\]\([https://guide.elm-lang.org/architecture/](https://guide.elm-lang.org/architecture/%29%29\)\)
+* \[The Elm Architecture\] \([https://guide.elm-lang.org/architecture/](https://guide.elm-lang.org/architecture/%29%29%29\)\)
   * A model-update-view pattern for centralized model state where messages, which are often a union type, are mapped to a specific update of the model.
   * [https://dennisreimann.de/articles/elm-architecture-overview.html](https://dennisreimann.de/articles/elm-architecture-overview.html)
 * No runtime errors
