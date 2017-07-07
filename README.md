@@ -11,6 +11,7 @@ This is not so much a book as it is an attempt to organize resources collected i
 * Decentralized computing
 * Literate programming
 * Compositional user interfaces
+* Live programming environments
 
 These documents are not authored by an expert in any of the related fields and should be interpreted as a student's attempt at understanding and surveying the landscape. Contributions, comments, and criticism are welcomed.
 
