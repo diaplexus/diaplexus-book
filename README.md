@@ -15,3 +15,5 @@ This is not so much a book as it is an attempt to organize resources collected i
 
 These documents are not authored by an expert in any of the related fields and should be interpreted as a student's attempt at understanding and surveying the landscape. Contributions, comments, and criticism are welcomed.
 
+Come chat at: [https://gitter.im/diaplexus](https://gitter.im/diaplexus)
+
