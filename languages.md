@@ -75,3 +75,9 @@ _"Next generation programming platform, currently in development."_
 
 _"Unison is a new programming platform that rethinks just about every aspect of the programming experience."_
 
+## Spry - [http://sprylang.org/](http://sprylang.org/)
+
+"Spry borrows homoiconicity from Rebol and Lisp, free form syntax from Forth and Rebol, the word of different types from Rebol, good data structure literal support from JavaScript and the general coding experience and style from Smalltalk. It also has a few ideas of its own, like an interesting argument passing mechanism and a relatively novel take on OO."
+
+
+
