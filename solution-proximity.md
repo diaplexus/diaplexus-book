@@ -36,7 +36,7 @@ If a fraction of the effort went into a designing a live programming environment
 
 ### Reinvention
 
-Inventing grants a unique sense of ownership and understanding. It often seems things are reinvented simply due to the absolute dread imposed by the solution proximity of modifying and understanding a complex system. It seems many would opt to  spend tremendously longer reinventing a solution than opt to understand a complex, existing solution. Wyhat is the measure and level of complexity that effectively cripples any efforts to further evolve a system? Abstractions are obviousl very important for humans to reason about complex problems.
+Inventing grants a unique sense of ownership and understanding. It often seems things are reinvented simply due to the absolute dread imposed by the solution proximity of modifying and understanding a complex system. It seems many would opt to  spend tremendously longer reinventing a solution than opt to understand a complex, existing solution. What is the measure and level of complexity that effectively cripples any efforts to further evolve a system? Abstractions are obviously very important for humans to reason about complex problems.
 
-It seems many good ideas often take quite a long time to percolate through greater society and become generally accepted as truth. Is this a cause of seemingly cyclical emergence of programming concepts that were clearly described some 50 years ago? Or is it just now that the problems have arisen best suited for those old ideas?
+It seems many good ideas often take quite a long time to percolate through greater society and become generally accepted as truth. Is this a cause of seemingly cyclical emergence of programming concepts that were described some 50 years ago? Or is it just now that the problems have arisen best suited for those old ideas?
 
