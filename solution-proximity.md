@@ -14,11 +14,11 @@ There must exist domains of knowledge such that domains X and Y have minimal ove
 
 Examples of these domains might be: language designers, domain-specific-languages, scripting/interpreted vs compiled languages, dynamic typing vs static styping, parallel algorithms vs linear algorithms, visual object designers vs textual source code, administrators vs developers, etc.
 
-These boundaries obviously exist at an informal level, but what should the clean separation between a system administrator and a OS programmer be?
+These boundaries obviously exist at an informal level, but what should the clean separation between a system administrator and an OS programmer be?
 
 **Q:** How much of a system administrators job is chasing arcane solutions to problems unrelated to any actual first principles?
 
-Is it really a sane workflow to find the correct configuration parameter on the 6th page of a forum discussion on a loosely related problem?
+Is it really a sane workflow to find the correct configuration parameter on the 6th page of a forum discussion of a loosely related problem?
 
 ### Self-Describing Systems
 
