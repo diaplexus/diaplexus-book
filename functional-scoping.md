@@ -17,7 +17,7 @@ The solutions currently sound something like this:
 3. Requires a cluster of computers preconfigured to receive orchestrated map reduce tasks.
 4. ...? A fully modular global compute system that can be democratically time-shared to solve problem X within an acceptable and predictable time span, without exterminating the species if off by an order of magnitude?
 
-Let's look at Excel as an example. Excel is very intuitive for a large class of problems that benefit from both a unique visual layout and the clear visualization of the intermediate calculations of the model. It's also very useful for quickly slicing and understanding fairly small tables of data.
+Let's look at Excel as an example. Excel is very intuitive for a large class of problems that benefit from both a unique visual layout and the clear visualization of the intermediate calculations of a model. It's also very useful for quickly slicing and understanding fairly small tables of data, and serving as a means for basic data entry.
 
 There are two very common ways that Excel's utility starts to break down.
 
