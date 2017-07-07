@@ -22,7 +22,7 @@ Is it really a sane workflow to find the correct configuration parameter on the 
 
 ### Self-Describing Systems
 
-A system which, within its own facilities, can guide a user to appropriately use the system and identify all lpossibe interactions with a gradual increase of complexity suitable for taking the user from beginner to master.
+A system which, within its own facilities, can guide a user to appropriately use the system and identify all possible interactions with a gradual increase of complexity suitable for taking the user from beginner to master.
 
 "Oh, I didn't know I could interact with that widget..."
 
