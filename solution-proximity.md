@@ -8,7 +8,7 @@ This is very verbose explanation of why people "stick to what they know."
 
 ### Knowledge Domains
 
-There must exist domains of knowledge such that domains X and Y have minimal overlapping tools and concepts, and the domain takes an entire human lifespan of effort to master. Then it would follow that there's a fundamental necessity for interdisciplinary cooperation as huge swaths of knowledge would be completely unaccessible to an individual. It should also follow that more and more of human knowledge will become inaccessible to an individual due human lifespans in the future.
+There must exist domains of knowledge such that domains X and Y have minimal overlapping tools and concepts, and the domains respectively take an entire human lifespan of effort to master. Then it would follow that there's a fundamental necessity for interdisciplinary cooperation as huge swaths of knowledge would be completely inaccessible to an individual. It should also follow that more and more of human knowledge will become inaccessible to individuals due to the limits of the human lifespan in the future.
 
 **Q:** Does there exist a hierachy of programming concepts such that clean abstractions can exist to promote optimal cooperation between domains of knowledge?
 
@@ -39,8 +39,4 @@ If a fraction of the effort went into a designing a live programming environment
 Inventing grants a unique sense of ownership and understanding. It often seems things are reinvented simply due to the absolute dread imposed by the solution proximity of modifying and understanding a complex system. It seems many would opt to  spend tremendously longer reinventing a solution than opt to understand a complex, existing solution. Wyhat is the measure and level of complexity that effectively cripples any efforts to further evolve a system? Abstractions are obviousl very important for humans to reason about complex problems.
 
 It seems many good ideas often take quite a long time to percolate through greater society and become generally accepted as truth. Is this a cause of seemingly cyclical emergence of programming concepts that were clearly described some 50 years ago? Or is it just now that the problems have arisen best suited for those old ideas?
-
-
-
-
 
