@@ -32,7 +32,7 @@ A system which, within its own facilities, can guide a user to appropriately use
 
 Games are an interesting case study in this regard, in that they have no obvious utility to the real world, yet people spend hundreds of hours carefully tuning the experience so that you're presented with just the right solution proximity such that you can succeed while being adequately challenged at each step.
 
-If a fraction of the effort went into a designing a live programming environment that careful led you to solutions for common business problems, it seems the world would change. Maybe programming problems are just that much more intractable than elaborate game puzzles that require hundreds of hours of refinement of fine motor skills to overcome.
+If a fraction of the effort went into a designing a live programming environment that carefully leads you to the solutions for common business problems, it seems the world would change. Maybe programming problems are just that much more intractable than elaborate game puzzles that require hundreds of hours of refinement of fine motor skills to overcome.
 
 ### Reinvention
 
