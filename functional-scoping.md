@@ -27,7 +27,7 @@ The second is the scaling problem above. Even within Excel's hard defined bounds
 
 Now, what if there was a graceful way for the user to disable functionality that did not pertain to the billion row problem, or better yet, the application was carefully designed to have preconfigured functional scopes that were relevant to the scale of the problem.
 
-"I still want to filter, but coloring and styling individual cells for a billion rows is no longer useful."
+"I still want to filter, but coloring and styling individual cells, or even rows, for a billion row dataset is no longer useful."
 
 There have been several attempts to embed Python within Excel as an escape hatch to more elegant solutions for larger and more complex problems. Is it really the case that adding an entirely unrelated lineage of programming inside of another is the most efficient means of handling these functional scopes for similar classes of problems?
 
