@@ -34,3 +34,13 @@ Games are an interesting case study in this regard in that they have no obvious 
 
 If a fraction of the effort went into a designing a live programming environment that careful led you to solutions for common business problems, it seems the world would change. Maybe programming problems are just that much more intractable than elaborate game puzzles that require hundreds of hours of refinement of fine motor skills to overcome.
 
+### Reinvention
+
+Inventing grants a unique sense of ownership and understanding. It often seems things are reinvented simply due to the absolute dread imposed by the solution proximity of modifying and understanding a complex system. It seems many would opt to  spend tremendously longer reinventing a solution than opt to understand a complex, existing solution. Wyhat is the measure and level of complexity that effectively cripples any efforts to further evolve a system? Abstractions are obviousl very important for humans to reason about complex problems.
+
+It seems many good ideas often take quite a long time to percolate through greater society and become generally accepted as truth. Is this a cause of seemingly cyclical emergence of programming concepts that were clearly described some 50 years ago? Or is it just now that the problems have arisen best suited for those old ideas?
+
+
+
+
+
