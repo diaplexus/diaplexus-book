@@ -1,6 +1,6 @@
 # Diaplexus Book
 
-A collection of resources on programming concepts.
+A collection of resources on programming concepts, research notes, and ramblings.
 
 This is not so much a book as it is an attempt to organize resources collected in pursuit of a set of loosely related ideas that tend to center around software development. Some of these ideas include:
 
