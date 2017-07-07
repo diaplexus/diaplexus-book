@@ -10,6 +10,8 @@
 * Latency
 * Unreliable networks
 * Unreliable nodes
+* Atomic compute nodes
+* Memory hierarchies: CPU cache, RAM, disk, network storage, etc.
 
 
 
