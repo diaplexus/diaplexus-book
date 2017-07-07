@@ -8,4 +8,5 @@
 * [Metaphors and Models](metaphors-and-models.md)
 * [Protocols](protocols.md)
 * [Grammars and DSLs](grammars-and-dsls.md)
+* [Popularity](popularity.md)
 
