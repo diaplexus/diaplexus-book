@@ -2,9 +2,9 @@
 
 This is the notion that the likelihood of finding or pursuing a solution decreases with the distance the solution is from the seeker. It could also be more specfically related to the effort required to find the solution rather than the complexity or difficulty of implementing the solution itself.
 
-In terms of programming languages, a language may be generally used for a specific class of problems that does not contain your problem. Say the language may even present a superior solution to your problem than languages with a closer solution proximity for you. For instance, the Smalltalk environments are incredible feats of engineering, but I'm much more likely to find solutions to my daily business problems searching for Python implementations than I am Smalltalk implementations. This could even be a totally contrived scenario where Python is both creating and solving the problem, but I'm still far less likely to move towards the "better" solution if the effort to reach that solution is too great or foreign.
+In terms of programming languages, a language may be generally used for a specific class of problems that does not contain your problem. Say the language may even present a superior solution to your problem than the languages with a closer solution proximity for you. For instance, the Smalltalk environments are incredible feats of engineering, but I'm much more likely to find solutions to my daily business problems searching for Python implementations than I am Smalltalk implementations. This could even be a totally contrived scenario where Python is both creating and solving the same problem, but I'm still far less likely to move towards the "better" solution if the effort to reach that solution is too great or foreign.
 
-This is very verbose explanation of why people "stick to what they know." 
+This is very verbose explanation of why people "stick to what they know."
 
 ### Knowledge Domains
 
@@ -14,7 +14,7 @@ There must exist domains of knowledge such that domains X and Y have minimal ove
 
 Examples of these domains might be: language designers, domain-specific-languages, scripting/interpreted vs compiled languages, dynamic typing vs static styping, parallel algorithms vs linear algorithms, visual object designers vs textual source code, administrators vs developers, etc.
 
-These boundaries obviously exist at an informal level, but what should the clean separation between a system administrator and a OS programmer be? 
+These boundaries obviously exist at an informal level, but what should the clean separation between a system administrator and a OS programmer be?
 
 **Q:** How much of a system administrators job is chasing arcane solutions to problems unrelated to any actual first principles?
 
