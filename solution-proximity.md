@@ -12,7 +12,7 @@ There must exist domains of knowledge such that domains X and Y have minimal ove
 
 **Q:** Does there exist a hierachy of programming concepts such that clean abstractions can exist to promote optimal cooperation between domains of knowledge?
 
-Examples of these domains might be: language designers, domain-specific-languages, scripting/interpreted vs compiled languages, dynamic typing vs static styping, parallel algorithms vs linear algorithms, visual object designers vs textual source code, administrators vs developers, etc.
+Examples of these domains might be: language designers, domain-specific-languages, scripting/interpreted vs compiled languages, dynamic typing vs static styping, parallel algorithms vs linear algorithms, visual object designers vs textual source code, administrators vs developers, subject-matter experts, etc.
 
 These boundaries obviously exist at an informal level, but what should the clean separation between a system administrator and an OS programmer be?
 
