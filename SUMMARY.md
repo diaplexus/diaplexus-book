@@ -2,4 +2,5 @@
 
 * [Introduction](README.md)
 * [Languages](languages.md)
+* [Solution Proximity](solution-proximity.md)
 
