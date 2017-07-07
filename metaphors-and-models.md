@@ -1,2 +1,2 @@
-"Words and worlds are metaphors of me."
+"All words and worlds are metaphors of me."
 
