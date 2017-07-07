@@ -8,7 +8,7 @@ For instance, a classic scaling problem:
 2. I want to sort one billion rows.
 3. I want to sort one million by one billion rows.
 
-Each of these problems have been effectively "solved" such that we've found a solution that operates within the human attention span for the current resources of computers. Yet the solution proximity between these problems is quite large such that moving from one to the next is an insurmountable task for a large percentage of people that have problem \#1 and maybe graduate to problem \#2, or from \#2 to \#3.
+Each of these problems have been effectively "solved" such that we've found a solution that operates within the human attention span for the current resources of computers. Yet the solution proximity between these problems is quite large such that moving from one to the next is an insurmountable task for a large percentage of people that have problem \#1 and may graduate to problem \#2, or from \#2 to \#3.
 
 The solutions currently sound something like this:
 
