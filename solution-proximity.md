@@ -8,7 +8,7 @@ This is very verbose explanation of why people "stick to what they know."
 
 ### Knowledge Domains
 
-There must exist domains of knowledge such that domains X and Y have minimal overlapping tools and concepts, and the domain takes an entire human lifespan of effort to master. Then it would follow that there's a fundamental necessity for interdisciplinary cooperation as huge swaths of knowledge would be completely unaccessible to an individual.
+There must exist domains of knowledge such that domains X and Y have minimal overlapping tools and concepts, and the domain takes an entire human lifespan of effort to master. Then it would follow that there's a fundamental necessity for interdisciplinary cooperation as huge swaths of knowledge would be completely unaccessible to an individual. It should also follow that more and more of human knowledge will become inaccessible to an individual due human lifespans in the future.
 
 **Q:** Does there exist a hierachy of programming concepts such that clean abstractions can exist to promote optimal cooperation between domains of knowledge?
 
